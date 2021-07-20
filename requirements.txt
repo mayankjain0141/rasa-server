@@ -1,0 +1,12 @@
+python-engineio==3.13.2
+python-socketio == 4.6.1
+sanic == 20.9.0
+rasa==2.3.3
+rasa-sdk==2.3.1
+
+aiohttp==3.6.3
+flask==2.0.1
+waitress
+
+# Rasa requirements
+gast==0.3.3
